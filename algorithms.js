@@ -16,7 +16,7 @@ evenNaturalNumbers.forEach(function(evenNum){
 });
 console.log(calculator);
 
-/* task 555
+/* task 554
 Given natural number n. Get all the Pythagorean
 triples of natural numbers, each of which does not exceed n.
 a * a + b * b = c * c (a ≤ b ≤ c ≤ n)  */
